@@ -1,0 +1,1 @@
+Link da Dashboard criada durante o curso na plateforma Databricks Comunity: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1712775207395911/2346929038862788/107338909827079/latest.html
